@@ -31,7 +31,7 @@
 		<dc:title id="title">The Experiences of Loveday Brooke, Lady Detective</dc:title>
 		<meta property="file-as" refines="#title">Experiences of Loveday Brooke, Lady Detective, The</meta>
 		<dc:subject id="subject-1">Brooke, Loveday (Fictitious character)</dc:subject>
-		<dc:subject id="subject-2">Private investigators -- England -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Private investigators--England--Fiction</dc:subject>
 		<dc:subject id="subject-3">Detective and mystery stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh86002800</meta>
